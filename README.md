@@ -49,10 +49,10 @@ status  = ● online
 ### n1tr0@zeus:~$ ls -la ./projects/
 
 ```bash
-drwxr-xr-x  kotlin-cubo-magico    # Modelagem e rotações de Cubo Mágico 3x3 em Kotlin
-drwxr-xr-x  Grimorio-Api          # API em C# para dados temáticos (fork)
--rwxr-xr-x  Bank-system-attempt   # Simulação bancária em Java [WIP]
-drwxr-xr-x  Games-Website         # Website de catálogo de games em HTML/CSS (fork)
+drwxr-xr-x  kotlin-cubo-magico    # Cubo Mágico 3x3 em Kotlin — lógica pura
+drwxr-xr-x  Grimorio-Api          # API C# para dados temáticos (fork)
+drwxr-xr-x  Bank-system-attempt   # Simulação bancária em Java [WIP]
+drwxr-xr-x  Games-Website         # Catálogo de games em HTML/CSS (fork)
 ```
 
 <table width="100%">
@@ -64,7 +64,7 @@ drwxr-xr-x  Games-Website         # Website de catálogo de games em HTML/CSS (f
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
       </p>
       <a href="https://github.com/Nitr0-Zeus/kotlin-cubo-magico">
-        <img src="https://img.shields.io/badge/ver_repositório-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositório" />
+        <img src="https://img.shields.io/badge/ver_repositorio-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositorio" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -75,7 +75,7 @@ drwxr-xr-x  Games-Website         # Website de catálogo de games em HTML/CSS (f
         <img src="https://img.shields.io/badge/fork-0a0a0f?style=flat-square&labelColor=0a0a0f&color=9ca3af" alt="fork" />
       </p>
       <a href="https://github.com/Nitr0-Zeus/Grimorio-Api">
-        <img src="https://img.shields.io/badge/ver_repositório-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositório" />
+        <img src="https://img.shields.io/badge/ver_repositorio-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositorio" />
       </a>
     </td>
   </tr>
@@ -88,7 +88,7 @@ drwxr-xr-x  Games-Website         # Website de catálogo de games em HTML/CSS (f
         <img src="https://img.shields.io/badge/status-WIP-B388FF?style=flat-square&labelColor=0a0a0f" alt="WIP" />
       </p>
       <a href="https://github.com/Nitr0-Zeus/Bank-system-attempt">
-        <img src="https://img.shields.io/badge/ver_repositório-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositório" />
+        <img src="https://img.shields.io/badge/ver_repositorio-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositorio" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -99,7 +99,7 @@ drwxr-xr-x  Games-Website         # Website de catálogo de games em HTML/CSS (f
         <img src="https://img.shields.io/badge/fork-0a0a0f?style=flat-square&labelColor=0a0a0f&color=9ca3af" alt="fork" />
       </p>
       <a href="https://github.com/Nitr0-Zeus/Games-Website">
-        <img src="https://img.shields.io/badge/ver_repositório-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositório" />
+        <img src="https://img.shields.io/badge/ver_repositorio-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositorio" />
       </a>
     </td>
   </tr>
@@ -111,16 +111,16 @@ drwxr-xr-x  Games-Website         # Website de catálogo de games em HTML/CSS (f
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nitr0-Zeus&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0a0a0f&title_color=B388FF&icon_color=B388FF&text_color=e0e0e0&border_color=1a1a2e" height="165" alt="github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitr0-Zeus&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a0f&title_color=B388FF&text_color=e0e0e0&border_color=1a1a2e" height="165" alt="top langs" />
+<img src="https://github-readme-stats-one.vercel.app/api?username=Nitr0-Zeus&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0a0a0f&title_color=B388FF&icon_color=B388FF&text_color=e0e0e0&border_color=1a1a2e" height="165" alt="github stats" />
+<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Nitr0-Zeus&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a0f&title_color=B388FF&text_color=e0e0e0&border_color=1a1a2e" height="165" alt="top langs" />
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=Nitr0-Zeus&theme=dracula&hide_border=true&background=0a0a0f&ring=B388FF&fire=B388FF&currStreakLabel=B388FF&sideNums=e0e0e0&sideLabels=9ca3af" width="65%" alt="streak stats" />
 
 </div>
 
-> Stats são vaidade, commit é prova.
+> Stats são vaidade, commit é prova. Se os cards não carregarem, é limite da API — recarregue a página.
 
 ---
 
