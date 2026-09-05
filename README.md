@@ -121,8 +121,8 @@ status:    ● online
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nitr0-Zeus&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=000000&title_color=B388FF&icon_color=B388FF&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitr0-Zeus&layout=compact&theme=dracula&hide_border=true&bg_color=000000&title_color=B388FF&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.k8s-workers.dev/api?username=Nitr0-Zeus&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=000000&title_color=B388FF&icon_color=B388FF&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.k8s-workers.dev/api/top-langs/?username=Nitr0-Zeus&layout=compact&theme=dracula&hide_border=true&bg_color=000000&title_color=B388FF&text_color=ffffff" height="165" />
 
 <br/><br/>
 
