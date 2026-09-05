@@ -1,164 +1,162 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=130&section=header&text=Nitr0_Zeus&fontColor=B388FF&fontSize=42&fontAlignY=35&desc=Backend%20Developer%20%E2%80%94%20JVM%20Stack%20%7C%20Kotlin%20%E2%80%A2%20Java%20%E2%80%A2%20C%23&descAlignY=55&descAlign=50" width="100%" alt="header" />
+  <img src="./assets/banner-top.svg" alt="banner" width="100%" />
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2200&pause=900&color=B388FF&center=true&vCenter=true&width=650&height=30&lines=n1tr0%40zeus%3A~%24+sudo+su;access+granted+%2F%2F+jvm+stack;break+everything.+rebuild+better." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=B388FF&center=true&vCenter=true&width=500&height=30&lines=backend+developer+%7C+JVM+ecosystem;kotlin+%2F+java+%2F+c%23+%2F+spring." alt="Typing SVG" />
 </div>
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Nitr0-Zeus&label=profile%20views&color=B388FF&style=flat-square)](https://github.com/Nitr0-Zeus)
-[![GitHub followers](https://img.shields.io/github/followers/Nitr0-Zeus?label=followers&style=flat-square&color=B388FF&labelColor=0a0a0f)](https://github.com/Nitr0-Zeus)
-
-</div>
+<br/>
 
 ---
 
-### n1tr0@zeus:~$ cat ~/.profile
+<br/>
 
-```bash
-user    = João "Nitr0_Zeus" Oliveira
-role    = Backend Developer | JVM Ecosystem
-stack   = Kotlin > Java > C#
-focus   = Backend, APIs REST, modelagem de domínio
-os      = Linux / Windows
-status  = ● online
+### `~/whoami`
+
+<table width="100%">
+<tr><td>
+
+```yaml
+nome:      João Vitor Oliveira
+alias:     Nitr0_Zeus
+função:    Backend Developer | JVM Ecosystem
+stack:     Kotlin, Java, C#
+focus:     Backend, APIs REST, modelagem de domínio
+os:        Linux / Windows
+status:    ● online
 ```
 
-> Foco em código limpo, arquitetura simples e soluções que funcionam em produção. Se compila, ótimo. Se quebra, debug até resolver.
+</td></tr>
+</table>
 
----
+<br/>
 
-### n1tr0@zeus:~$ ls --stack
+### `~/stack --list`
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0f?style=flat-square&logo=kotlin&logoColor=B388FF)
-![Java](https://img.shields.io/badge/Java-0a0a0f?style=flat-square&logo=openjdk&logoColor=B388FF)
-![C#](https://img.shields.io/badge/C%23-0a0a0f?style=flat-square&logo=csharp&logoColor=B388FF)
-![Spring](https://img.shields.io/badge/Spring-0a0a0f?style=flat-square&logo=spring&logoColor=B388FF)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=flat-square&logo=mysql&logoColor=B388FF)
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=flat-square&logo=git&logoColor=B388FF)
-![Linux](https://img.shields.io/badge/Linux-0a0a0f?style=flat-square&logo=linux&logoColor=B388FF)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=B388FF)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=B388FF)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=B388FF)
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=B388FF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=B388FF)
+![Maven](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=B388FF)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=B388FF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=B388FF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=B388FF)
 
 </div>
 
+<br/>
+
 ---
 
-### n1tr0@zeus:~$ ls -la ./projects/
+<br/>
 
-```bash
-drwxr-xr-x  kotlin-cubo-magico    # Cubo Mágico 3x3 em Kotlin — lógica pura
-drwxr-xr-x  Grimorio-Api          # API C# para dados temáticos (fork)
-drwxr-xr-x  Bank-system-attempt   # Simulação bancária em Java [WIP]
-drwxr-xr-x  Games-Website         # Catálogo de games em HTML/CSS (fork)
-```
+### `~/projetos --destaque`
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>kotlin-cubo-magico</h4>
-      <p>Modelagem e rotações de um Cubo Mágico 3x3. Lógica pura e testes em Kotlin.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-      </p>
-      <a href="https://github.com/Nitr0-Zeus/kotlin-cubo-magico">
-        <img src="https://img.shields.io/badge/ver_repositorio-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositorio" />
+      <h4>📋&nbsp; FocusList</h4>
+      <p>Gerenciador de tarefas desktop com JavaFX — persistência local, categorias, filtros e interface profissional.</p>
+      <a href="https://github.com/Nitr0-Zeus/FocusList">
+        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>Grimorio-Api</h4>
-      <p>API REST em C# para dados temáticos. CRUD estruturado e backend direto ao ponto.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/fork-0a0a0f?style=flat-square&labelColor=0a0a0f&color=9ca3af" alt="fork" />
-      </p>
-      <a href="https://github.com/Nitr0-Zeus/Grimorio-Api">
-        <img src="https://img.shields.io/badge/ver_repositorio-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositorio" />
+      <h4>🖥️&nbsp; GuidePC</h4>
+      <p>Monitoramento e teste de hardware via console — leitura OSHI, estresse CPU/RAM e comparativo com exportação CSV/PDF.</p>
+      <a href="https://github.com/Nitr0-Zeus/GuidePC">
+        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Bank-system-attempt</h4>
-      <p>Simulação bancária em Java: contas, transações e saldo. Em desenvolvimento.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/status-WIP-B388FF?style=flat-square&labelColor=0a0a0f" alt="WIP" />
-      </p>
-      <a href="https://github.com/Nitr0-Zeus/Bank-system-attempt">
-        <img src="https://img.shields.io/badge/ver_repositorio-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositorio" />
+      <h4>🧊&nbsp; kotlin-cubo-magico</h4>
+      <p>Simulador de cubo mágico 3x3 em Kotlin — rotações oficiais, embaralhamento e lógica pura.</p>
+      <a href="https://github.com/Nitr0-Zeus/kotlin-cubo-magico">
+        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>Games-Website</h4>
-      <p>Website de games em HTML/CSS com catálogo e interface responsiva.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/fork-0a0a0f?style=flat-square&labelColor=0a0a0f&color=9ca3af" alt="fork" />
-      </p>
-      <a href="https://github.com/Nitr0-Zeus/Games-Website">
-        <img src="https://img.shields.io/badge/ver_repositorio-B388FF?style=flat-square&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=B388FF" alt="ver repositorio" />
+      <h4>📚&nbsp; Grimório API</h4>
+      <p>API REST em C# para dados temáticos — CRUD estruturado e backend direto ao ponto.</p>
+      <a href="https://github.com/Nitr0-Zeus/Grimorio-Api">
+        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏦&nbsp; Bank System (Attempt)</h4>
+      <p>Simulação de sistema bancário — contas, transações e saldo. Em desenvolvimento.</p>
+      <a href="https://github.com/Nitr0-Zeus/Bank-system-attempt">
+        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🗃️&nbsp; Teste-BD</h4>
+      <p>Projetos da disciplina de Desenvolvimento de Software Visual — scripts SQL e exercícios.</p>
+      <a href="https://github.com/Nitr0-Zeus/Teste-BD">
+        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
-
-### n1tr0@zeus:~$ ./stats --overview
-
-<div align="center">
-
-<img src="https://github-readme-stats-one.vercel.app/api?username=Nitr0-Zeus&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0a0a0f&title_color=B388FF&icon_color=B388FF&text_color=e0e0e0&border_color=1a1a2e" height="165" alt="github stats" />
-<img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Nitr0-Zeus&layout=compact&theme=dracula&hide_border=true&bg_color=0a0a0f&title_color=B388FF&text_color=e0e0e0&border_color=1a1a2e" height="165" alt="top langs" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Nitr0-Zeus&theme=dracula&hide_border=true&background=0a0a0f&ring=B388FF&fire=B388FF&currStreakLabel=B388FF&sideNums=e0e0e0&sideLabels=9ca3af" width="65%" alt="streak stats" />
+### `~/stats --show`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nitr0-Zeus&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=000000&title_color=B388FF&icon_color=B388FF&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitr0-Zeus&layout=compact&theme=dracula&hide_border=true&bg_color=000000&title_color=B388FF&text_color=ffffff" height="165" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitr0-Zeus&theme=dracula&hide_border=true&background=000000&ring=B388FF&fire=B388FF&currStreakLabel=B388FF" width="65%" />
 
 </div>
 
-> Stats são vaidade, commit é prova. Se os cards não carregarem, é limite da API — recarregue a página.
+<br/>
 
 ---
 
-### n1tr0@zeus:~$ nmap --open-ports
+<br/>
+
+### `~/contato --canais`
 
 <div align="center">
 
 <a href="mailto:Akayunk7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0a0a0f?style=flat-square&logo=gmail&logoColor=B388FF&labelColor=0a0a0f" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B388FF" />
 </a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-oliveira-dos-santos-57040b334/">
-  <img src="https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat-square&logo=linkedin&logoColor=B388FF&labelColor=0a0a0f" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=B388FF" />
 </a>
 <a href="https://github.com/Nitr0-Zeus">
-  <img src="https://img.shields.io/badge/GitHub-0a0a0f?style=flat-square&logo=github&logoColor=B388FF&labelColor=0a0a0f" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=B388FF" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561198404995975">
-  <img src="https://img.shields.io/badge/Steam-0a0a0f?style=flat-square&logo=steam&logoColor=B388FF&labelColor=0a0a0f" alt="Steam" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=B388FF" />
 </a>
 
 </div>
 
-```bash
-n1tr0@zeus:~$ echo "Akayunk7@gmail.com" | base64
-# QWtheXVuazdnQGdtYWlsLmNvbQ==
-n1tr0@zeus:~$ ssh -T git@github.com
-# Hi Nitr0-Zeus! You've successfully authenticated.
-```
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0f&height=110&section=footer&text=system%20breached.%20rebuild%20better.&fontColor=B388FF&fontSize=16&fontAlignY=65" width="100%" alt="footer" />
-</div>
-
-<div align="center">
-
-```bash
-n1tr0@zeus:~$ echo "system breached. rebuild better." | sha256sum
-# conexão encerrada.
-```
-
+  <img src="./assets/banner-bottom.svg" alt="banner" width="100%" />
 </div>
