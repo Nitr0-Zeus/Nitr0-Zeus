@@ -61,6 +61,23 @@ status:    ● online
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h4>🏗️&nbsp; Site-SBO</h4>
+      <p>Site institucional da SBO Peças e Equipamentos — HTML/CSS/JS puro, no ar em sboaapa.com.br.</p>
+      <a href="https://github.com/Nitr0-Zeus/Site-SBO">
+        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚖️&nbsp; Calculadora de IMC</h4>
+      <p>Web app de cálculo de IMC com classificação oficial, histórico, validação e tema claro/escuro.</p>
+      <a href="https://github.com/Nitr0-Zeus/Calculadora-de-IMC">
+        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>📋&nbsp; FocusList</h4>
       <p>Gerenciador de tarefas desktop com JavaFX — persistência local, categorias, filtros e interface profissional.</p>
       <a href="https://github.com/Nitr0-Zeus/FocusList">
@@ -69,7 +86,7 @@ status:    ● online
     </td>
     <td width="50%" valign="top">
       <h4>🖥️&nbsp; GuidePC</h4>
-      <p>Monitoramento e teste de hardware via console — leitura OSHI, estresse CPU/RAM e comparativo com exportação CSV/PDF.</p>
+      <p>Monitoramento de hardware com dashboard web em tempo real (WebSocket) — OSHI, testes de estresse/disco e relatórios CSV/PDF.</p>
       <a href="https://github.com/Nitr0-Zeus/GuidePC">
         <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
