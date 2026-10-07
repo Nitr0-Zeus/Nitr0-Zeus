@@ -61,16 +61,16 @@ status:    ● online
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🏗️&nbsp; Site-SBO</h4>
-      <p>Site institucional da SBO Peças e Equipamentos — HTML/CSS/JS puro, no ar em sboaapa.com.br.</p>
-      <a href="https://github.com/Nitr0-Zeus/Site-SBO">
+      <h4>📊&nbsp; GuidePC-2</h4>
+      <p>Monitoramento de sistema em tempo real — coletor Node, 4 dashboards no Grafana, alertas automáticos e 59 testes. 100% local.</p>
+      <a href="https://github.com/Nitr0-Zeus/GuidePC-2">
         <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>⚖️&nbsp; Calculadora de IMC</h4>
-      <p>Web app de cálculo de IMC com classificação oficial, histórico, validação e tema claro/escuro.</p>
-      <a href="https://github.com/Nitr0-Zeus/Calculadora-de-IMC">
+      <h4>🎧&nbsp; Help-Desk</h4>
+      <p>API de chamados técnicos com SLA real, JWT com rotação de refresh token, anexos e OpenAPI — Spring Boot, 70+ testes.</p>
+      <a href="https://github.com/Nitr0-Zeus/Help-Desk">
         <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
@@ -78,16 +78,16 @@ status:    ● online
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📋&nbsp; FocusList</h4>
-      <p>Gerenciador de tarefas desktop com JavaFX — persistência local, categorias, filtros e interface profissional.</p>
-      <a href="https://github.com/Nitr0-Zeus/FocusList">
+      <h4>🖥️&nbsp; GuidePC</h4>
+      <p>Monitoramento de hardware com dashboard web em tempo real (WebSocket) — OSHI, testes de estresse/disco e relatórios CSV/PDF.</p>
+      <a href="https://github.com/Nitr0-Zeus/GuidePC">
         <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>🖥️&nbsp; GuidePC</h4>
-      <p>Monitoramento de hardware com dashboard web em tempo real (WebSocket) — OSHI, testes de estresse/disco e relatórios CSV/PDF.</p>
-      <a href="https://github.com/Nitr0-Zeus/GuidePC">
+      <h4>📋&nbsp; FocusList</h4>
+      <p>Gerenciador de tarefas desktop com JavaFX — persistência local, categorias, filtros e interface profissional.</p>
+      <a href="https://github.com/Nitr0-Zeus/FocusList">
         <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
@@ -102,26 +102,9 @@ status:    ● online
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>📚&nbsp; Grimório API</h4>
-      <p>API REST em C# para dados temáticos — CRUD estruturado e backend direto ao ponto.</p>
-      <a href="https://github.com/Nitr0-Zeus/Grimorio-Api">
-        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
-      </a>
-    </td>
-  </tr>
-  <tr><td colspan="2"><br/></td></tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏦&nbsp; Bank System (Attempt)</h4>
-      <p>Simulação de sistema bancário — contas, transações e saldo. Em desenvolvimento.</p>
-      <a href="https://github.com/Nitr0-Zeus/Bank-system-attempt">
-        <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗃️&nbsp; Teste-BD</h4>
-      <p>Projetos da disciplina de Desenvolvimento de Software Visual — scripts SQL e exercícios.</p>
-      <a href="https://github.com/Nitr0-Zeus/Teste-BD">
+      <h4>⚖️&nbsp; Calculadora de IMC</h4>
+      <p>Web app de cálculo de IMC com classificação oficial, histórico, validação e tema claro/escuro.</p>
+      <a href="https://github.com/Nitr0-Zeus/Calculadora-de-IMC">
         <img src="https://img.shields.io/badge/abrir%20repo-B388FF?style=flat-square&logo=github&logoColor=000000" />
       </a>
     </td>
